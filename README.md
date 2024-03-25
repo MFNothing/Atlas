@@ -1,3 +1,3 @@
 # Atlas
-lowcode 1
+init
 
